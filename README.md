@@ -1,2 +1,2 @@
-## Titanic
+## Titanic Project
 
